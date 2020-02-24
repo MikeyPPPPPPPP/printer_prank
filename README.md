@@ -1,5 +1,5 @@
 # printer_prank
-This cod when ran will automaticlly make a print, or more     If you computer auto connects 
+This code hen ran will automaticlly make a print, or more     If you computer auto connects 
 
 
 MODULES NEDDEN:
